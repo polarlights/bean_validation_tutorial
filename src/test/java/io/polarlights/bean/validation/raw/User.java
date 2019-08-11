@@ -1,4 +1,4 @@
-package polarlights.io.bean.validation.raw;
+package io.polarlights.bean.validation.raw;
 
 import lombok.Getter;
 import lombok.Setter;
